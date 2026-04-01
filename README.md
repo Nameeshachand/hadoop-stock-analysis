@@ -1,6 +1,6 @@
-# hadoop-stock-analysis
-Hadoop MapReduce project using Python to analyze stock data and compute maximum closing prices using HDFS and Hadoop Streaming.
 # Stock Price Analysis using Hadoop MapReduce
+Hadoop MapReduce project using Python to analyze stock data and compute maximum closing prices using HDFS and Hadoop Streaming.
+
 
 ##  Description
 This project uses Hadoop MapReduce with Python (Hadoop Streaming) to analyze stock market data and find the maximum closing price for each stock.
